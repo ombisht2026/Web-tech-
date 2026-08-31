@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <title>Web Page of List</title>
+</head>
+
+<body>
+    <h1>Courses Offered:-</h1>
+
+    <ol>
+        <li>BCA</li>
+        <li>BBA</li>
+        <li>B.Tech</li>
+        <li>MCA</li>
+        <li>MBA</li>
+        <li>B.Sc</li>
+    </ol>
+</body>
+</html>
